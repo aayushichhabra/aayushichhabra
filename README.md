@@ -19,7 +19,7 @@ I'm a **third-year B.Tech CS student at Manipal University Jaipur** (9.88 CGPA) 
 
 - 🔭 &nbsp;Currently building: **CVE intelligence agents** & **deepfake detection pipelines**
 - 📄 &nbsp;Authoring a research paper on **Data Center Energy Efficiency**
-- 🏆 &nbsp;**Top 10 Finalist** — Deloitte Capstone Ideathon (200+ teams)
+- 🏆 &nbsp;**Finalist** — Deloitte Capstone Ideathon (200+ teams)
 - 🎖️ &nbsp;**Dean's Excellence Award** — 5 consecutive semesters
 - 📍 &nbsp;Gurugram, Haryana
 
